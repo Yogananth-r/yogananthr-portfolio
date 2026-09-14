@@ -11,10 +11,10 @@ export const portfolio = {
 
   social: {
     github: "https://github.com/Yogananth-r",
-    linkedin: "https://linkedin.com/in/yogananth-rengasamy",
+    linkedin: "https://linkedin.com/in/yogananth-rengasamy-5a8393193/",
   },
 
-  resume: "/Yogananth R Resume Cloud Engineer.pdf",
+  resume: "/Yogananth_R_Resume_Cloud_Engineer.pdf",
 };
 
 export const skills = {
@@ -102,7 +102,7 @@ export const projects = [
     description:
       "Detects prompt injections, jailbreak attempts, leaked secrets, and malicious prompts before sending them to an LLM.",
     tech: ["Python", "Regex", "LLM Security"],
-    github: "https://github.com/Yogananth-r/",
+    github: "https://github.com/Yogananth-r/ai-firewall",
     featured: false,
   },
   {

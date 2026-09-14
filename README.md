@@ -6,4 +6,4 @@ Built with React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
 
 Focused on AWS, GCP, cloud automation, infrastructure tooling, and Python-based DevOps solutions.
 
-Live: tbu
+Live: [Portfolio](https://yogananthr-portfolio.vercel.app/)

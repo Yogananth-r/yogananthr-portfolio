@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tbd.com/sitemap.xml
+Sitemap: https://yogananthr-portfolio.vercel.app/sitemap.xml
