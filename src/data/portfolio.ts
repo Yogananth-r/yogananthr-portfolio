@@ -88,12 +88,21 @@ export const projects = [
     featured: false,
   },
   {
-    title: "AWS SG RULE OPTIMIZER",
+    title: "AWS SG Rule Optimizer",
     category: "infrastructure Analysis CLI",
     description:
       "A Python CLI tool for AWS CloudShell that analyzes and optimizes AWS Security Group CIDR rules by merging adjacent IPv4 CIDR blocks into the smallest equivalent network ranges.",
     tech: ["Python", "EC2", "Security Groups"],
     github: "https://github.com/Yogananth-r/aws-sg-rule-optimizer",
+    featured: false,
+  },
+  {
+    title: "AWS Unused Resources Finder",
+    category: "infrastructure Analysis CLI",
+    description:
+      "A read-only AWS CLI tool that scans an AWS account for potentially unused resources and generates an Excel report. It checks EC2, EBS, Elastic IPs, AMIs, RDS, Load Balancers, EFS, and S3. The tool only reads AWS resources and never modifies or deletes them.",
+    tech: ["Python", "CLI Tool", "Typer"],
+    github: "https://github.com/Yogananth-r/aws-unused-resources",
     featured: false,
   },
   {
@@ -103,15 +112,6 @@ export const projects = [
       "Detects prompt injections, jailbreak attempts, leaked secrets, and malicious prompts before sending them to an LLM.",
     tech: ["Python", "Regex", "LLM Security"],
     github: "https://github.com/Yogananth-r/ai-firewall",
-    featured: false,
-  },
-  {
-    title: "Hosur Crime News Crawler",
-    category: "News Automation",
-    description:
-      "Collects and filters crime-related news from multiple English and Tamil news sources.",
-    tech: ["Python", "BeautifulSoup", "RSS", "NLP"],
-    github: "https://github.com/Yogananth-r/",
     featured: false,
   },
 
