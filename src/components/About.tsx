@@ -11,7 +11,7 @@ const cards = [
   {
     title: "Automation",
     description:
-      "Python, Bash and PowerShell automation for cloud infrastructure, monitoring and DevOps workflows.",
+      "Python, Bash, Go and PowerShell automation for cloud infrastructure, monitoring and DevOps workflows.",
     icon: Terminal,
   },
   {

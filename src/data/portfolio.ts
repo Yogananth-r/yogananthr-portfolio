@@ -1,11 +1,11 @@
 export const portfolio = {
   name: "Yogananth R",
   title: "Deloitte | Cloud Engineer",
-  experience: "2.5+ Years",
+  experience: "3+ Years",
   location: "Hosur, Tamil Nadu, India",
 
   intro:
-    "Cloud Engineer at Deloitte with 2.5+ years of experience in AWS and GCP, building cloud automation, infrastructure tooling, monitoring solutions, and Python-based DevOps utilities.",
+    "Cloud Engineer at Deloitte with 3+ years of experience in AWS and GCP, building cloud automation, infrastructure tooling, monitoring solutions, and Python-based DevOps utilities.",
 
   email: "yogananthr22@gmail.com",
 

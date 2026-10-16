@@ -34,7 +34,7 @@ export default function Hero() {
 
           {/* Tech Badges */}
           <div className="mt-8 flex flex-wrap gap-3">
-            {["AWS", "GCP", "Python", "Linux", "Terraform", "Ansible"].map(
+            {["AWS", "GCP", "Python","Go", "Linux", "Terraform", "Ansible","AI"].map(
               (skill) => (
                 <span
                   key={skill}
