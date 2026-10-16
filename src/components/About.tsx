@@ -48,7 +48,7 @@ export default function About() {
           </h2>
 
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-400">
-            Cloud Engineer with 2.5+ years of experience working across AWS and GCP,
+            Cloud Engineer with 3+ years of experience working across AWS and GCP,
             focused on infrastructure automation, cloud operations, monitoring,
             and DevOps tooling. I enjoy building practical cloud utilities that
             solve real operational problems.
