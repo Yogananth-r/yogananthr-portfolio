@@ -146,10 +146,27 @@ export const timeline = [
       "Graduated with a CGPA of 9.16 in Computer Science & Engineering.",
   },
   {
-    year: "2023 - Present",
-    title: "Cloud Engineer",
-    company: "Deloitte India",
-    description:
-      "Working on AWS and GCP infrastructure, cloud automation, Linux administration, monitoring, patching and DevOps tooling.",
-  },
+  year: "2023 - Present",
+  title: "Cloud Engineer",
+  company: "Deloitte India",
+  description:
+    "Working on AWS and GCP infrastructure, cloud automation, Linux administration, monitoring, patching and DevOps tooling.",
+  roles: [
+    {
+      title: "Senior Analyst",
+      period: "Jun 2026 - Present",
+      location: "",
+    },
+    {
+      title: "Analyst - Technology & Transformation",
+      period: "Nov 2023 - Jun 2026",
+      location: "Coimbatore, Tamil Nadu, India",
+    },
+  ],
+  skills: [
+    "Amazon Web Services (AWS)",
+    "Google Cloud Platform (GCP)",
+    "Python Automation",
+  ],
+},
 ];
