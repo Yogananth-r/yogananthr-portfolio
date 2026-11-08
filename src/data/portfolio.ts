@@ -5,7 +5,7 @@ export const portfolio = {
   location: "Hosur, Tamil Nadu, India",
 
   intro:
-    "Cloud Engineer at Deloitte with 3+ years of experience in AWS and GCP, building cloud automation, infrastructure tooling, monitoring solutions, and Python-based DevOps utilities.",
+    "Cloud Engineer at Deloitte with 3+ years of experience in AWS and GCP, building cloud automation, infrastructure tooling, monitoring solutions, AI-based workflows and Python-based DevOps utilities.",
 
   email: "yogananthr22@gmail.com",
 
@@ -29,12 +29,15 @@ export const skills = {
     "IaaC",
     "Deployment",
     "Backup/Recovery",
-    "Monitoring"
+    "Monitoring",
+    "Bedrock",
+    "Ollama"
   ],
 
   automation: [
     "Python",
     "Bash",
+    "n8n",
     "PowerShell",
     "Ansible",
     "Salt",
@@ -70,7 +73,7 @@ export const experience = [
     role: "Cloud Engineer",
     period: "2023 — Present",
     summary:
-      "Managing AWS and GCP infrastructure, automation, monitoring, patching, and operational tooling.",
+      "Managing AWS and GCP infrastructure, automation, monitoring, patching, AI workflows and operational tooling.",
   },
 ];
 
@@ -150,7 +153,7 @@ export const timeline = [
   title: "Cloud Engineer",
   company: "Deloitte India",
   description:
-    "Working on AWS and GCP infrastructure, cloud automation, Linux administration, monitoring, patching and DevOps tooling.",
+    "Working on AWS and GCP infrastructure, cloud automation, Linux administration, monitoring, patching, AI-workflows and DevOps tooling.",
   roles: [
     {
       title: "Senior Analyst",
@@ -167,6 +170,7 @@ export const timeline = [
     "Amazon Web Services (AWS)",
     "Google Cloud Platform (GCP)",
     "Python Automation",
+    "AI"
   ],
 },
 ];

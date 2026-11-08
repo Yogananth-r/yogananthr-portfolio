@@ -9,9 +9,9 @@ const cards = [
     icon: Cloud,
   },
   {
-    title: "Automation",
+    title: "Automation & AI",
     description:
-      "Python, Bash, Go and PowerShell automation for cloud infrastructure, monitoring and DevOps workflows.",
+      "Python, Bash, Go and PowerShell automation for cloud infrastructure, monitoring and DevOps workflows. N8N workflows and Bedrock based AI workflows for cloud operations",
     icon: Terminal,
   },
   {
@@ -49,7 +49,7 @@ export default function About() {
 
           <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-400">
             Cloud Engineer with 3+ years of experience working across AWS and GCP,
-            focused on infrastructure automation, cloud operations, monitoring,
+            focused on infrastructure automation, cloud operations, monitoring, AI Workflows
             and DevOps tooling. I enjoy building practical cloud utilities that
             solve real operational problems.
           </p>

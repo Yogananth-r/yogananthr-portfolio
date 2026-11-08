@@ -21,7 +21,7 @@ export default function Projects() {
 
           <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-400">
             Practical cloud engineering tools built around AWS, GCP,
-            infrastructure automation and DevOps operations.
+            infrastructure automation, AI Workflows and DevOps operations.
           </p>
         </div>
 

@@ -9,7 +9,7 @@ const sections = [
     items: skills.cloud,
   },
   {
-    title: "Automation",
+    title: "Automation & AI",
     icon: Terminal,
     items: skills.automation,
   },
