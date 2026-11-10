@@ -14,7 +14,7 @@ export const portfolio = {
     linkedin: "https://linkedin.com/in/yogananth-rengasamy-5a8393193/",
   },
 
-  resume: "/Yogananth_R_Resume_Cloud_Engineer.pdf",
+  resume: "/Yogananth R_Resume_Cloud_Engineer.pdf",
 };
 
 export const skills = {
